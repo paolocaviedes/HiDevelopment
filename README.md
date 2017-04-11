@@ -3,7 +3,7 @@
 ## 1. Collaboration Analytics
 
 ### Tecnologias
-	Movilidad - Colaboració
+	Movilidad - Colaboración
 
 ### Estado Actual
 	Proyecto standby, se cuenta con el front end avanzado, existe modelo de datos activo
@@ -11,9 +11,12 @@
 ## 2. Guía Interactiva
 
 ### Tecnologias
+	Movilidad
 
 ### Estado Actual
+	Proyecto finalizado, guias publicadas en tiendas mobile
 
+---
 ## 3. CMX
 
 ### Tecnologias
