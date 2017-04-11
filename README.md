@@ -3,9 +3,11 @@
 ## 1. Collaboration Analytics
 
 ### Tecnologias
+	Movilidad - Colaboració
 
 ### Estado Actual
-
+	Proyecto standby, se cuenta con el front end avanzado, existe modelo de datos activo
+---
 ## 2. Guía Interactiva
 
 ### Tecnologias
