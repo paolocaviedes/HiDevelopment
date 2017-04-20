@@ -91,10 +91,10 @@ Se programa libreria para mensajeria instantanea en Python.
 ## 9. Hi Cloud
 
 ### Tecnologias
-Seguridad - Virtualizacion
+	Seguridad - Virtualizacion
 
 ### Estado Actual
-Nube privada pequeña para aprovisionamiento de MV para desarrollo de aplicaciones, proyectos pilotos y agilidad en realización de pruebas.
+	Nube privada pequeña para aprovisionamiento de MV para desarrollo de aplicaciones, proyectos pilotos y agilidad en realización de pruebas.
 
 ---
 
