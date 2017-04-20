@@ -22,7 +22,7 @@ Aplicacion Hibrida para moviles Android e IOS para visualizar los dispositivos c
 
 ---
 ## 3. CMX
-
+Movilidad - IoT - Colaboracion
 ### Tecnologias
 
 ### Estado Actual
@@ -31,12 +31,13 @@ Ideal seria contar con una solucion de CMX onpremise en Hiway para validar un la
 
 
 ---
-## 4. Bots Spark
-
+## 4. Bots/Integraciones Spark
+Se programa libreria para mensajeria instantanea en Python. 
 ### Tecnologias
+Movilidad - IoT - Colaboracion
 
 ### Estado Actual
-
+Se estan realizadon 2 integraciones, una para el CiscoFirePowerSystem
 ---
 ## 5. Motion Tracker
 
