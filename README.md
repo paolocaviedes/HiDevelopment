@@ -23,15 +23,14 @@ Aplicacion Hibrida para moviles Android e IOS para visualizar los dispositivos c
 
 ---
 
-## 3. CMX
+## 3. CMX - Meraki
 
 ### Tecnologias
 	Movilidad - IoT - Colaboracion
 
 ### Estado Actual
-	Se realizó una investigacion donde se pudo obtener datos desde CMX Meraki, en este caso se utilizó el de prueba la solucion Meraki de IF Valpo, falta validar otras tecnologias en CMX meraki (iBeacons, BLE, Zigbee).
+	Se realizó una investigacion donde se pudo obtener datos desde CMX Meraki, en este caso se utilizó la solucion Meraki de IF Valpo, falta validar otras tecnologias en CMX meraki (iBeacons, BLE, Zigbee).
 	Ideal seria contar con una solucion de CMX onpremise en Hiway para validar un laboratorio.
-
 
 ---
 
@@ -51,6 +50,7 @@ Se programa libreria para mensajeria instantanea en Python.
 ---
 
 ## 5. Motion Tracker
+Consiste en un conjunto de sensores de movimiento que capturan la posicion de una persona en espacios abiertos, a traves de traduccion de posicion a comandos, envia la señal al codec sx80 para gatillar el seguimiento. 
 
 ### Tecnologias
 	Colaboracion
@@ -70,9 +70,10 @@ Se programa libreria para mensajeria instantanea en Python.
 
 ---
 ## 7. SmartHub
+Consiste en un dispositivo al cual se le pueden conectar sensores que se definan, la configuracion debe ser plug & play y permitira la visualizacion de estos datos en una plataforma. 
 
 ### Tecnologias
-	IoT
+	IoT - Movilidad
 
 ### Estado Actual
 	Se cuenta con un dispositivo MVP desarrollado para una demo anterior y con el Voucher entregado por corfo, se está tranajando en la planificacion del proyecto, los entregables y contrataciones.
