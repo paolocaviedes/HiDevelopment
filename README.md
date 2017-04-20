@@ -2,7 +2,7 @@
 
 ## 1. Collaboration Analytics
 
-Proyecto que consiste en una capa de visualizacion de data para CUCM, esta capa de visualizacion utiliza una herramienta de business intelligence y apunta a ser utilizada para realizacion de analytics sobre el comportamiento de telefonia y videocolaboracion
+Proyecto que consiste en una capa de visualizacion de data para CUCM. Esta capa de visualizacion utiliza una herramienta de business intelligence y apunta a ser utilizada para realizacion de analytics sobre el comportamiento de telefonia y videocolaboracion
 
 ### Tecnologias
 	Movilidad - Colaboración
