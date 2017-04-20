@@ -13,7 +13,7 @@ Proyecto que consiste en una capa de visualizacion de data para CUCM. Esta capa 
 ---
 
 ## 2. Guía Interactiva
-Aplicacion Hibrida para moviles Android e IOS para visualizar los dispositivos cisco, apunta a la venta. 
+Aplicacion Hibrida para moviles Android e IOS para visualizar los dispositivos cisco, apunta a la venta. Esta aplicacion muestra los dispositivos Cisco, junto a su descripcion y video tutoriales para la utilizacion. 
 
 ### Tecnologias
 	Movilidad
