@@ -66,14 +66,13 @@ Se programa libreria para mensajeria instantanea en Python.
 	IoT
 
 ### Estado Actual
-	Simil a Harness
+	Simil a Smarthub
 
 ---
 ## 7. SmartHub
 
-	IoT
-
 ### Tecnologias
+	IoT
 
 ### Estado Actual
 	Se cuenta con un dispositivo MVP desarrollado para una demo anterior y con el Voucher entregado por corfo, se está tranajando en la planificacion del proyecto, los entregables y contrataciones.
